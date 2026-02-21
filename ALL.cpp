@@ -14,10 +14,10 @@ Adafruit_MLX90614 mlx = Adafruit_MLX90614();
 #include <DallasTemperature.h>
 
 // ================= BUTTON =================
-#define BUTTON_PIN 13
+#define BUTTON_PIN 4
 
 // ================= DS18B20 PINS =================
-#define ONE_WIRE_BUS1 4
+#define ONE_WIRE_BUS1 13
 #define ONE_WIRE_BUS2 16
 #define ONE_WIRE_BUS3 17
 
